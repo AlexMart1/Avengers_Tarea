@@ -1,5 +1,6 @@
 # Miembros
 
+* Chapulin Colorado
 * Capitán America
 * Black panther
 * Black Widow
